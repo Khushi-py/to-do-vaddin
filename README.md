@@ -1,4 +1,4 @@
-Todo App (Vaadin + Java)
+🧾 Todo App 
 
 
 A simple To-Do List Web App built using Vaadin Flow and Java (Spring Boot).
