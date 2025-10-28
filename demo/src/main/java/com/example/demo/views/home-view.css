@@ -1,0 +1,5 @@
+.home-view {
+    background-color: cyan;
+    height: 100vh; /* pure page ki height ke liye */
+    padding: 20px;
+}
